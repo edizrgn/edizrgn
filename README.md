@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ediz Ergin</h1>
 <h3 align="center">I'm a tech enthusiast who loves learning and building things. I'm currently on my journey to become a Full-Stack Developer. Always curious, always improving.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edizrgn&label=Profile%20views&color=0e75b6&style=flat" alt="edizrgn" /> </p>
-
 - 📫 How to reach me **ediz25e@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edizrgn&show_icons=true&locale=en" alt="edizrgn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edizrgn&" alt="edizrgn" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edizrgn&label=Profile%20views&color=0e75b6&style=flat" alt="edizrgn" /> </p>
